@@ -1,0 +1,30 @@
+<application>
+  <component name="KafkaToolPersistentStateComponent">
+    <option name="avroPackagePrefix" value="com.xing.jobs" />
+    <option name="bootstrapServers" value="localhost:19092" />
+    <option name="producerHistoryDataStack">
+      <list>
+        <ProducerHistoryEntry>
+          <option name="schema" value="[  &quot;null&quot;,  {    &quot;type&quot;: &quot;record&quot;,    &quot;name&quot;: &quot;Story&quot;,    &quot;namespace&quot;: &quot;com.xing.jobs.Story&quot;,    &quot;doc&quot;: &quot;Job Story data&quot;,    &quot;fields&quot;: [      {        &quot;name&quot;: &quot;job_urn&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;reason&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;user_urn&quot;,        &quot;type&quot;: &quot;string&quot;      }    ]  }]" />
+          <option name="topic" value="jobs_stories" />
+        </ProducerHistoryEntry>
+        <ProducerHistoryEntry>
+          <option name="schema" value="[  &quot;null&quot;,  {    &quot;type&quot;: &quot;record&quot;,    &quot;name&quot;: &quot;Story&quot;,    &quot;namespace&quot;: &quot;com.xing.jobs.Story&quot;,    &quot;doc&quot;: &quot;Job Story data&quot;,    &quot;fields&quot;: [      {        &quot;name&quot;: &quot;job_urn&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;reason&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;user_urn&quot;,        &quot;type&quot;: &quot;string&quot;      }    ]  }]" />
+          <option name="topic" value="jobs_stories" />
+        </ProducerHistoryEntry>
+        <ProducerHistoryEntry>
+          <option name="schema" value="[  &quot;null&quot;,  {    &quot;type&quot;: &quot;record&quot;,    &quot;name&quot;: &quot;Story&quot;,    &quot;namespace&quot;: &quot;com.xing.jobs.Story&quot;,    &quot;doc&quot;: &quot;Job Story data&quot;,    &quot;fields&quot;: [      {        &quot;name&quot;: &quot;job_urn&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;reason&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;user_urn&quot;,        &quot;type&quot;: &quot;string&quot;      }    ]  }]" />
+          <option name="topic" value="jobs_stories" />
+        </ProducerHistoryEntry>
+        <ProducerHistoryEntry>
+          <option name="schema" value="[  &quot;null&quot;,  {    &quot;type&quot;: &quot;record&quot;,    &quot;name&quot;: &quot;Story&quot;,    &quot;namespace&quot;: &quot;com.xing.jobs.Story&quot;,    &quot;doc&quot;: &quot;Job Story data&quot;,    &quot;fields&quot;: [      {        &quot;name&quot;: &quot;job_urn&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;reason&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;user_urn&quot;,        &quot;type&quot;: &quot;string&quot;      }    ]  }]" />
+          <option name="topic" value="jobs_stories" />
+        </ProducerHistoryEntry>
+        <ProducerHistoryEntry>
+          <option name="schema" value="[  &quot;null&quot;,  {    &quot;type&quot;: &quot;record&quot;,    &quot;name&quot;: &quot;Story&quot;,    &quot;namespace&quot;: &quot;com.xing.jobs.Story&quot;,    &quot;doc&quot;: &quot;Job Story data&quot;,    &quot;fields&quot;: [      {        &quot;name&quot;: &quot;job_urn&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;reason&quot;,        &quot;type&quot;: &quot;string&quot;      },      {        &quot;name&quot;: &quot;user_urn&quot;,        &quot;type&quot;: &quot;string&quot;      }    ]  }]" />
+          <option name="topic" value="jobs_stories" />
+        </ProducerHistoryEntry>
+      </list>
+    </option>
+  </component>
+</application>
