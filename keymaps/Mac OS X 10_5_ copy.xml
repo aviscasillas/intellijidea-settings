@@ -24,7 +24,9 @@
     <keyboard-shortcut first-keystroke="meta w" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
   </action>
-  <action id="CodeCompletion" />
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta slash" />
     <keyboard-shortcut first-keystroke="meta divide" />
