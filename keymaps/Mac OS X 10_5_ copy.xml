@@ -43,6 +43,10 @@
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
   <action id="EditorDownWithSelection" />
+  <action id="EditorEscape">
+    <keyboard-shortcut first-keystroke="escape" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="EditorLeftWithSelection" />
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="meta page_down" />
@@ -84,6 +88,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="2" />
   </action>
