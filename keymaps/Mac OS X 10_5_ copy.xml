@@ -77,7 +77,7 @@
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
-    <keyboard-shortcut first-keystroke="alt g" />
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="alt g" />
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
