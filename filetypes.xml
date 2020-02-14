@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="success" type="JSON" />
       <mapping ext="avsc" type="JSON" />
+      <mapping pattern="DeleteUserDataTest" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
     </extensionMap>
   </component>
