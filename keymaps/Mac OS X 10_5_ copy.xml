@@ -49,15 +49,18 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="EditorLeftWithSelection" />
-  <action id="EditorMoveToPageBottom">
-    <keyboard-shortcut first-keystroke="meta page_down" />
+  <action id="EditorRightWithSelection" />
+  <action id="EditorScrollToCenter">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
-  <action id="EditorMoveToPageTop">
-    <keyboard-shortcut first-keystroke="meta page_up" />
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="shift alt comma" />
   </action>
-  <action id="EditorRightWithSelection" />
   <action id="EditorToggleStickySelection">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
